@@ -7,11 +7,8 @@ na célula ao lado.
 Exemplo:
 
 Dia|Segunda/Janei.|Ponto
-
 En.|25/05/21 08:00|Botão
-
 In.|25/05/21 12:00|Botão
-
 Sa.|25/05/21 18:00|Botão
 
 É necessário permitir a edição e a execução de scripts pelo documento.
