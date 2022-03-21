@@ -7,11 +7,11 @@ na célula ao lado.
 Exemplo
 
 ----------------------------------------------------
-Dia         | Segunda 31/Jan |  Ponto
+Dia         / Segunda 31/Jan /  Ponto
 ----------------------------------------------------
-Horário de entrada|                |  Botão
-Intervalo         |                |  Botão
-Horário de Saída  |                |  Botão
+Horário de entrada/                /  Botão
+Intervalo         /                /  Botão
+Horário de Saída  /                /  Botão
 ----------------------------------------------------
 
 Ao pressionar o botão, o horário é automaticamente inserido na célula, da seguinte maneira:
