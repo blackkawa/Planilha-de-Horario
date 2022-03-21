@@ -10,4 +10,10 @@ Além disso, a tabela calcula automaticamente a quantidade de horas trabalhadas 
 
 O arquivo Ponto.png possui uma imagem demonstrando a tabela em si.
 
+Código em VBA de cada Botão:
+
+Private Sub CommandButton_Click()
+  Range("Celula").Value = Now()
+End Sub
+
 Arquivo de uso livre, assim como os scritps.
