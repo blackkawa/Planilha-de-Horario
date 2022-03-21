@@ -4,7 +4,7 @@ Uma planilha com uso simples de VBA para criar um ponto eletronico gerido pelo u
 Esta planilha possui uma organização simples de um Mês completo. Cada dia possui 3 botões, que buscam o horário do computador do usuário e insere
 na célula ao lado. 
 
-Exemplo:
+Exemplo
 
 ----------------------------------------------------
 Dia         | Segunda 31/Jan |  Ponto
