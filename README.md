@@ -8,4 +8,6 @@ na célula ao lado.
 
 Além disso, a tabela calcula automaticamente a quantidade de horas trabalhadas de acordo com o ponto registrado pelo usuário, e calcula horas extras.
 
+O arquivo Ponto.png possui uma imagem demonstrando a tabela em si.
+
 Arquivo de uso livre, assim como os scritps.
